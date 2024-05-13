@@ -1,0 +1,11 @@
+# Test your FastAPI endpoints
+
+GET http://localhost:8000/player/
+Accept: application/json
+
+###
+
+GET http://localhost:8000/team/
+Accept: application/json
+
+###

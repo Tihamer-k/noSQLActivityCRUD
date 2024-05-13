@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Manchester City",
+    "city": "Manchester",
+    "trainer": "Pep Guardiola",
+    "players": [
+      "Kevin De Bruyne",
+      "Kyle Walker",
+      "Erling Haaland"
+    ]
+  },
+  {
+    "name": "Liverpool",
+    "city": "Liverpool",
+    "trainer": "Jurgen Klopp",
+    "players": [
+      "Mohamed Salah",
+      "Virgil van Dijk",
+      "Alisson Becker"
+    ]
+  },
+  {
+    "name": "Chelsea",
+    "city": "Londres",
+    "trainer": "Mauricio Pochettino",
+    "players": [
+      "Thiago Silva",
+      "Raheem Sterling",
+      "Mason Mount"
+    ]
+  },
+  {
+    "name": "Manchester United",
+    "city": "Manchester",
+    "trainer": "Erik ten Hag",
+    "players": [
+      "Bruno Fernandes",
+      "Marcus Rashford",
+      "Harry Maguire"
+    ]
+  },
+  {
+    "name": "Arsenal",
+    "city": "Londres",
+    "trainer": "Mikel Arteta",
+    "players": [
+      "Bukayo Saka",
+      "Gabriel Jesus",
+      "Martin Ødegaard"
+    ]
+  }
+]

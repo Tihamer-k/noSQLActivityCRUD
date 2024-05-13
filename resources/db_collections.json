@@ -1,0 +1,85 @@
+{
+  "collections": [
+    {
+      "name": "players",
+      "fields": [
+        {
+          "name": "",
+          "age": 0,
+          "position": "",
+          "team": ""
+        }
+      ]
+    },
+    {
+      "name": "teams",
+      "fields": [
+        {
+          "name": "",
+          "city": "",
+          "trainer": "",
+          "players": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "name": "referees",
+      "fields": [
+        {
+          "name": "",
+          "country": "",
+          "Experience": ""
+        }
+      ]
+    },
+    {
+      "name": "trainers",
+      "fields": [
+        {
+          "name": "",
+          "age": 0,
+          "Experience": ""
+        }
+      ]
+    },
+    {
+      "name": "sporting_events",
+      "fields": [
+        {
+          "local_team": "",
+          "visiting_team": "",
+          "date": "",
+          "referee": "",
+          "result": ""
+        }
+      ]
+    },
+    {
+      "name": "sporting_events_results",
+      "fields": [
+        {
+          "sporting_event": "",
+          "goals_local_team": 0,
+          "goals_visiting_team": 0
+        }
+      ]
+    },
+    {
+      "name": "position_table",
+      "fields": [
+        {
+          "team": "",
+          "score": 0,
+          "matches_played": 0,
+          "matches_won": 0,
+          "drawn_matches": 0,
+          "matches_lost": 0,
+          "goals_scored": 0,
+          "goals_against": 0
+        }
+      ]
+    }
+  ]
+}

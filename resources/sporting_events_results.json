@@ -1,0 +1,27 @@
+[
+  {
+    "sporting_event": "Manchester City vs Liverpool",
+    "goals_local_team": 2,
+    "goals_visiting_team": 1
+  },
+  {
+    "sporting_event": "Chelsea vs Manchester United",
+    "goals_local_team": 1,
+    "goals_visiting_team": 0
+  },
+  {
+    "sporting_event": "Manchester United vs Arsenal",
+    "goals_local_team": 3,
+    "goals_visiting_team": 2
+  },
+  {
+    "sporting_event": "Manchester United vs Manchester City",
+    "goals_local_team": 0,
+    "goals_visiting_team": 0
+  },
+  {
+    "sporting_event": "Arsenal vs Chelsea",
+    "goals_local_team": 2,
+    "goals_visiting_team": 3
+  }
+]

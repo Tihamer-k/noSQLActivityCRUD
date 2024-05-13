@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Pep Guardiola",
+    "age": 53,
+    "experience": "Comenzó su carrera como entrenador en 2007 con el FC Barcelona “B” y ha dirigido equipos como el FC Barcelona, Bayern Múnich y actualmente el Manchester City, acumulando una experiencia de más de una década."
+  },
+  {
+    "name": "Jurgen Klopp",
+    "age": 56,
+    "experience": "Inició como entrenador principal en 2001 con el Mainz 05 y ha estado al frente de equipos como Borussia Dortmund y Liverpool, con una experiencia de más de 20 años en el banquillo."
+  },
+  {
+    "name": "Mauricio Pochettino",
+    "age": 52,
+    "experience": "Comenzó su carrera de entrenador en 2009 con el RCD Espanyol y ha dirigido al Southampton, Tottenham Hotspur, Paris Saint-Germain y ahora al Chelsea, con una experiencia de más de una década en la gestión técnica."
+  },
+  {
+    "name": "Erik ten Hag",
+    "age": 42,
+    "experience": "Su carrera como entrenador comenzó en 2012 con el Go Ahead Eagles y ha dirigido al Bayern Múnich II, FC Utrecht, Ajax y actualmente al Manchester United, con una experiencia de más de 10 años."
+  },
+  {
+    "name": "Mikel Arteta",
+    "age": 42,
+    "experience": "Empezó su carrera como entrenador en 2021 con el Arsenal F.C., después de haber sido asistente en el Manchester City bajo la dirección de Pep Guardiola."
+  }
+]

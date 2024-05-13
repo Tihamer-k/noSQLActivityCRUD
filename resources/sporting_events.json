@@ -1,0 +1,37 @@
+[
+  {
+    "local_team": "Manchester City",
+    "visiting_team": "Liverpool",
+    "date": "2024-05-15",
+    "referee": "Michael Oliver",
+    "result": "2-1"
+  },
+  {
+    "local_team": "Chelsea",
+    "visiting_team": "Manchester United",
+    "date": "2024-05-15",
+    "referee": "Martin Atkinson",
+    "result": "1-0"
+  },
+  {
+    "local_team": "Manchester United",
+    "visiting_team": "Arsenal",
+    "date": "2024-05-16",
+    "referee": "Anthony Taylor",
+    "result": "3-2"
+  },
+  {
+    "local_team": "Manchester United",
+    "visiting_team": "Manchester City",
+    "date": "2024-05-17",
+    "referee": "Paul Tierney",
+    "result": "0-0"
+  },
+  {
+    "local_team": "Arsenal",
+    "visiting_team": "Chelsea",
+    "date": "2024-05-18",
+    "referee": "Craig Pawson",
+    "result": "2-3"
+  }
+]

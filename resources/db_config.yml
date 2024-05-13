@@ -1,0 +1,14 @@
+collections:
+  - name: players
+    fields: 
+      - name: string
+      - age: integer
+      - position: string
+      - team: string
+
+  - name: teams
+    fields:
+      - name: string
+      - city: string
+      - trainer: string
+      - players: []

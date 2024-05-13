@@ -1,0 +1,94 @@
+[
+  {
+    "name": "Kevin De Bruyne",
+    "age": 33,
+    "position": "mediocampista",
+    "team": "Manchester City"
+  },
+  {
+    "name": "Kyle Walker",
+    "age": 34,
+    "position": "Defensor",
+    "team": "Manchester City"
+  },
+  {
+    "name": "Erling Haaland",
+    "age": 24,
+    "position": "Delantero",
+    "team": "Manchester City"
+  },
+  {
+    "name": "Mohamed Salah",
+    "age": 32,
+    "position": "Delantero",
+    "team": "Liverpool"
+  },
+  {
+    "name": "Virgil van Dijk",
+    "age": 33,
+    "position": "Defensor",
+    "team": "Liverpool"
+  },
+  {
+    "name": "Alisson Becker",
+    "age": 31,
+    "position": "Portero",
+    "team": "Liverpool"
+  },
+  {
+    "name": "Thiago Silva",
+    "age": 39,
+    "position": "Defensor",
+    "team": "Chelsea"
+  },
+  {
+    "name": "Raheem Sterling",
+    "age": 29,
+    "position": "Delantero",
+    "team": "Chelsea"
+  },
+  {
+    "name": "Mason Mount",
+    "age": 25,
+    "position": "Mediocampista",
+    "team": "Chelsea"
+  },
+  {
+    "name": "Bruno Fernandes",
+    "age": 29,
+    "position": "Mediocampista",
+    "team": "Manchester United"
+  },
+  {
+    "name": "Marcus Rashford",
+    "age": 26,
+    "position": "Delantero",
+    "team": "Manchester United"
+  },
+  {
+    "name": "Harry Maguire",
+    "age": 31,
+    "position": "Defensor",
+    "team": "Manchester United"
+  },
+    {
+    "name": "Bukayo Saka",
+    "age": 22,
+    "position": "Extremo",
+    "team": "Arsenal"
+  },
+  {
+    "name": "Gabriel Jesus",
+    "age": 27,
+    "position": "Delantero",
+    "team": "Arsenal"
+  },
+  {
+    "name": "Martin Ødegaard",
+    "age": 25,
+    "position": "Mediocampista",
+    "team": "Arsenal"
+  }
+]
+
+

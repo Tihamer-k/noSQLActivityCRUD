@@ -1,0 +1,12 @@
+[
+  {
+    "team": "Liverpool",
+    "score": 9,
+    "matches_played": 5,
+    "matches_won": 3,
+    "drawn_matches": 1,
+    "matches_lost": 1,
+    "goals_scored": 6,
+    "goals_against": 2
+  }
+]
